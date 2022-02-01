@@ -7,9 +7,12 @@
 - :woman: My pronouns She/Her.
 - I love :chocolate_bar:, :ramen:, :ice_cream:, :musical_note: and :dog:. 
 
- ![image](https://avatars.githubusercontent.com/u/97979186?v=4)
+
+![justartover1_](https://user-images.githubusercontent.com/97979186/151951806-73122df1-3bb1-44b7-b522-d65596f54d28.png)
 
 <!---
 justartover1/justartover1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
