@@ -1,6 +1,6 @@
  # Hello World :computer:
 - 👋 I’m @justartover1
-- 👀 I’m currently learning C, C++.
+- 👀 I’m currently learning Java.
 - 🌱 I’m an absolute beginner.
 - :handshake: I’m looking forward to making contributions.
 - 📫 How to reach me? [Twitter](https://twitter.com/justartover) | [Instagram](https://www.instagram.com/justartover/)
